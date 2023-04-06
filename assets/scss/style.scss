@@ -13,7 +13,7 @@
     width: 200px;
     object-fit:cover;
 }
-.conteiner{
+.conteiner {
     @extend .centrado;
     @extend .caja;
     flex-direction: column
@@ -26,6 +26,14 @@
     @extend .centrado;
     flex-direction: column;
     input{
+        margin-top: 1em;
+    }
+}
+.conteiner3{
+    @extend .caja;
+    @extend .centrado;
+    flex-direction: column;
+    button{
         margin-top: 1em;
     }
 }
