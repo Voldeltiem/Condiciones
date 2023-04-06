@@ -1,0 +1,1 @@
+.centrado,.conteiner,.conteinerTarjet,.tarjet{display:flex;align-items:center;justify-content:center}.caja,.conteiner{border:1px solid black;margin:2em;padding:1em}.imagen{height:200px;width:200px;object-fit:cover}.conteiner{flex-direction:column}.tarjet{flex-direction:column}.tarjet input{margin-top:1em}
